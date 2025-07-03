@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{ziwoneee}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ziwoneee&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ziwoneee"
+  width="600"
+  height="300"
+/>
 </a>
