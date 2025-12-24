@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white">&nbsp
   <a href="https://github.com/ziwoneee" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  </a>&nbsp
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google&logoColor=white">&nbsp
 </div>
