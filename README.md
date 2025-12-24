@@ -1,6 +1,6 @@
 <h1 align="center">👩🏻‍💻 끈기와 책임감 있는 신입 개발자 서지원</h1>
 <p align="center">
-  Back-end Developer | Java · Spring
+  Back-end Developer (Junior) | Java · Spring
 </p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -28,12 +28,7 @@
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white">&nbsp
-  <a href="https://github.com/ziwoneee" style="text-decoration:none; display:inline-block;">
-    <img 
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      style="display:block;"
-    >
-  </a>&nbsp
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google&logoColor=white">&nbsp
 </div>
