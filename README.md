@@ -37,7 +37,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:ziwonee24@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/ziwonee24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:ziwoneee@kakao.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/ziwoneee@kakao.com-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">
   </a>
 </div>
